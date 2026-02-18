@@ -11,20 +11,18 @@
   </a>
 </div>
 
-
-<!-- <div align="center">
-  <h3> PROJECTS</h3>
-</div>
-
 <div align="center">
-  <h3>📚 Tech Stacks</h3>
-  <h3>Languages</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <h3>✨ PROJECTS</h3>
+  <a href="https://github.com/hyesom2/Bloom" target="_blank">
+    <img src="https://img.shields.io/badge/BLOOM-dd3333?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Photobit-RIGRAM/RIGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/RIGRAM-626369?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/polzzak-by-nowashgirls/polzzak" target="_blank">
+    <img src="https://img.shields.io/badge/POLZZAK-e93587?style=for-the-badge&logoColor=white"/>
+  </a>
 </div>
--->
 
 <!--
 **hyesom2/hyesom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
