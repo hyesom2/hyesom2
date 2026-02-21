@@ -16,7 +16,7 @@
   <a href="https://github.com/hyesom2/Bloom" target="_blank">
     <img src="https://img.shields.io/badge/BLOOM-dd3333?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://github.com/Photobit-RIGRAM/RIGRAM" target="_blank">
+  <a href="https://photobit-rigram.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/RIGRAM-626369?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://github.com/polzzak-by-nowashgirls/polzzak" target="_blank">
