@@ -61,7 +61,7 @@
 </div>
 
 <div align="center">
-  ![Hyesom's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyesom2&show_icons=true&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api?username=hyesom2&show_icons=true&theme=dracula" />
 </div>
 
 <!--
